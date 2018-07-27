@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
 <head>
 	<title>First document</title>
@@ -11,7 +11,7 @@
 		</header>
 		<main>
 			<section>
-			Du texte
+			<p>Du texte mais en mieux</p>
 			</section>
 		</main>
 		<footer>
